@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md.Amin
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently pursuing MS in Machine Learning & AI from Liverpool John Moores University ...
+- 🌱 I’m currently pursuing PG Diploma in Machine Learning & AI from University of Hyderabad ...
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me ...er.mohammad.amin@gmail.com, +918210578197
 
