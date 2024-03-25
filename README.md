@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Md.Amin
-- 👀 I’m interested in Large Language Models
 - 🌱 I’m currently pursuing a Master's in Machine Learning & AI from Technische Universität Hamburg ...
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me ...workwithaminkhan@gmail.com
