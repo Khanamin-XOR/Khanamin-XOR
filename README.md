@@ -1,11 +1,17 @@
-- 👋 Hi, I’m Md.Amin
-- 🌱 I’m currently pursuing a Master's in Machine Learning & AI from Technische Universität Hamburg ...
-- 💞️ I’m looking to collaborate on AI projects
-- 📫 How to reach me ...workwithaminkhan@gmail.com
--  Medium: https://er-mohammad-amin.medium.com/
--  LinkedIn: https://www.linkedin.com/in/mdaminkhan/
+### Hi, I'm Md Amin 👋
 
-<!---
-Khanamin-XOR/Khanamin-XOR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+M.Sc. Data Science candidate at **Technische Universität Hamburg** (graduating April 2027). I build production data + ML systems alongside my studies.
+
+🔭 **Currently:**
+- **Working Student, Data Analytics & Web Development** — TU Hamburg, International Affairs · Python automation, Plotly dashboards, Erasmus platform engineering
+- **Research Assistant** (recently completed) — German Aerospace Center (DLR) · built an ontology-generation pipeline over helicopter S1000D maintenance documents using LangChain + RAG
+
+🧰 **Stack:**
+Python · SQL · Pandas · PyTorch · Scikit-learn · FastAPI · Docker · Kubernetes · GitLab CI/CD · LangChain · RAG · Plotly
+
+📍 Based in Hamburg, Germany · 🌐 English (C1) · 🇩🇪 German (A2, improving)
+
+📫 **Reach me:**
+- LinkedIn → [mdaminkhan](https://www.linkedin.com/in/mdaminkhan/)
+- Blog → [er-mohammad-amin.medium.com](https://er-mohammad-amin.medium.com/)
+- Email → workwithaminkhan@gmail.com
