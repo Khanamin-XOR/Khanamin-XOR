@@ -16,7 +16,22 @@ Python · SQL · Pandas · PyTorch · Scikit-learn · FastAPI · Docker · Kuber
 - Blog → [er-mohammad-amin.medium.com](https://er-mohammad-amin.medium.com/)
 - Email → workwithaminkhan@gmail.com
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Khanamin-XOR&show_icons=true&theme=default&hide=stars&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khanamin-XOR&layout=compact)
+![Profile views](https://komarev.com/ghpvc/?username=Khanamin-XOR&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/Khanamin-XOR?label=Followers&style=flat)
+![Years](https://img.shields.io/badge/Years%20coding-4%2B-blue)
+
+**Tech I work with**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2D9C4F?style=flat)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
