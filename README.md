@@ -15,3 +15,8 @@ Python · SQL · Pandas · PyTorch · Scikit-learn · FastAPI · Docker · Kuber
 - LinkedIn → [mdaminkhan](https://www.linkedin.com/in/mdaminkhan/)
 - Blog → [er-mohammad-amin.medium.com](https://er-mohammad-amin.medium.com/)
 - Email → workwithaminkhan@gmail.com
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Khanamin-XOR&show_icons=true&theme=default&hide=stars&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khanamin-XOR&layout=compact)
